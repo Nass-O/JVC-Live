@@ -1,3 +1,3 @@
 # JVC-Live
 
-Caca
+Consultez JVC en mode live.
