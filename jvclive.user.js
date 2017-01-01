@@ -12,7 +12,7 @@
 // @require Option.js
 // @require Page.js
 // @require JvcLive.js
-// @version 1.1.3
+// @version 1.1.4
 // @grant none
 // @noframes
 // ==/UserScript==
